@@ -5,7 +5,7 @@ einsum==0.3.0
 google-auth==2.16.2
 immutabledict==2.2.0
 jax==0.4.13
-jaxlib==0.4.13
+jaxlib>=0.4.13
 matplotlib==3.6.1
 numpy==1.23.5
 pandas==1.5.3
